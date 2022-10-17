@@ -1,5 +1,5 @@
 # spring-bootstrap-thymeleaf
-## Bootstrap,  thymeleaf
+## Bootstrap,  thymeleaf gyakorlás
  Működik:
 * http://localhost:8888/swagger-ui/index.html
 * API Controller: subject, schoolclass
